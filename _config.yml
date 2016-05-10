@@ -1,0 +1,19 @@
+
+name: Sid Jayanna
+description: ''
+url: http://sidjayanna.com
+highlighter: rouge
+permalink: /posts/:title/
+markdown: kramdown
+
+theme:
+  disqus_shortname: sjayanna
+  google_analytics: UA-38811488-1
+
+sass:
+  sass_dir: _sass
+  style: :compressed
+
+gems:
+  - jekyll-redirect-from
+  - jekyll-sitemap
