@@ -21,4 +21,4 @@ I created my own command based off the run command from coffee-script textmate b
 
 My configuration screenshot is below:
 
-![Alt Javascript node textmate configuration](/assets/images/js-node-textmate.jpg "Javascript node textmate configuration")
+![Alt Javascript node textmate configuration](/images/js-node-textmate.jpg "Javascript node textmate configuration")

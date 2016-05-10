@@ -2,18 +2,11 @@
 layout: post
 title: "Tmux   terminal multiplexer"
 description: ""
-category:
+category: tmux
 tags: []
 ---
 
 I have used [gnu screen](http://www.gnu.org/software/screen/) before but for the last month I have been using [tmux terminal multiplexer](http://tmux.sourceforge.net/). Using vim and Tmux on iTerm2 on OSX is really becoming a big part of my workflow while trying to get stuff done.
-
-Checkout the screenshot below to see tmux in action using split windows on a terminal:
-
-***
-![Alt My Tmux workflow](/assets/images/tmux.jpg "My workflow with Tmux")
-
-***
 
 Few commands to get started with Tmux (prefix is the keyboard shortcut defined in ~/.tmux.conf)
 
