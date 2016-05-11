@@ -2,7 +2,7 @@
 layout: post
 title: "Tmux   terminal multiplexer"
 description: ""
-category:
+category: tmux
 tags: []
 ---
 
