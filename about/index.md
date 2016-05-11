@@ -3,7 +3,6 @@ layout: page
 title: "About"
 date:  2014-11-19 21:50:53
 ---
-
 Sid is passionate about technology, social entrepreneurship, product development, startups and good design. I love to use technology to help improve communities.
 
 Below are somethings which I have worked or working on.

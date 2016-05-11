@@ -2,3 +2,6 @@ _site
 .sass-cache
 .DS_Store
 notes.txt
+
+# Ignore bundler config.
+/.bundle
