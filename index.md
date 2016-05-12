@@ -2,7 +2,11 @@
 layout: default
 title: Sid Jayanna
 ---
-[Sid](/about) is passionate about technology, software development, product development, social entrepreneurship, startups and good design. [Read more](/about)
+
+<img src="http://www.gravatar.com/avatar/0687e6637524442617cc342a1ee4755c?s=200" alt="sid jayanna">
+
+[Sid](/about) is passionate about technology, software development, product development, social entrepreneurship, startups and good design. [Read more about Sid](/about)
+
 <div class='posts'>
 <hl>
   {% for post in site.posts %}
