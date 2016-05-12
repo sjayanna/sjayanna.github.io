@@ -2,7 +2,7 @@
 layout: default
 title: Sid Jayanna
 ---
-[Sid](/about) is passionate about technology, software development, product development, social entrepreneurship, startups and good design. He loves to use technology to help improve communities. [Read more](/about)
+[Sid](/about) is passionate about technology, software development, product development, social entrepreneurship, startups and good design. [Read more](/about)
 <div class='posts'>
 <hl>
   {% for post in site.posts %}

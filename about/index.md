@@ -5,7 +5,7 @@ date:  2014-11-19 21:50:53
 ---
 <img src="http://www.gravatar.com/avatar/0687e6637524442617cc342a1ee4755c?s=200">
 
-Sid is passionate about technology, social entrepreneurship, product development, startups and good design. I love to use technology to help improve communities.
+Sid is passionate about technology, social entrepreneurship, product development, startups and good design.
 
 Below are somethings which I have worked or working on.
 
