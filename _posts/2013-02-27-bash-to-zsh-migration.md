@@ -11,6 +11,11 @@ I have been reading the power of [zsh](http://zsh.sourceforge.net/FAQ/) for a wh
 
 zsh has great command completion, for example:
 
-	kill <tab> # gives a list of all the processes with pid unlike bash shell.
+{% highlight text %}
+kill <tab> # gives a list of all the processes with pid unlike bash shell.
+{% endhighlight %}
 
-zsh has good command typo correction and a lot more. Please read the [zsh manual](http://zsh.sourceforge.net/Doc/Release/zsh_toc.html).
+zsh has good command typo correction and a lot more.
+
+### Further reading
+* [zsh manual](http://zsh.sourceforge.net/Doc/Release/zsh_toc.html).

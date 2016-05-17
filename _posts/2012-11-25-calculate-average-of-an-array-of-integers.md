@@ -9,7 +9,7 @@ tags: []
 
 I was teaching the concept of average to my elementary grade school daughter and figured the output of the below code would help her better understand.
 
-{% highlight ruby %}
+{% highlight text %}
 1.9.2p290 :094 > array = [*1..10]
  => [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 1.9.2p290 :095 > average = array.inject(0) { |memo, n| memo + n } / array.size.to_f
