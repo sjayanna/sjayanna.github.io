@@ -18,6 +18,11 @@ end
 print "Enter the string to be reversed: "
 input = gets
 puts "the reverse is: #{reverse_string(input)}"
+#output
+#→ ruby reverse.rb
+#Enter the string to be reversed: DESSERTS
+#the reverse is:
+#STRESSED
 {% endhighlight %}
 
 
