@@ -3,10 +3,6 @@ layout: page
 title: "My Wiki"
 date:  2016-05-10  2:20:40
 ---
-
-Collection of notes for my quick reference.
-
-
 **[Ruby](/notes/ruby/)
 &mdash; [Elixir](/notes/elixir/)
 &mdash; [Vim](/notes/vim/)
