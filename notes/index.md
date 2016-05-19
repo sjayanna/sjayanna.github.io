@@ -23,3 +23,4 @@ Other links:
 * [Terminal shortcuts](/notes/terminal-shortcuts/)
 * [Tmux](/notes/tmux/)
 * [MiniTest](/notes/minitest/)
+* [Jekyll](/notes/Jekyll/)
