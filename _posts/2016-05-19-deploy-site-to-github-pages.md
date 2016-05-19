@@ -1,8 +1,10 @@
 ---
-layout: page
-title: "Jekyll"
-date:  2016-05-19 13:00:06
+layout: post
+title: "Deploying site on Github pages using Jekyll"
+date:  2016-05-19 13:15:25
+categories: jekyll
 ---
+
 [Jekyll](https://jekyllrb.com/) is the framework which I use to power my personal [website](http://sidjayanna.com). It is minimal design and has a very low footprint and hosted right on Github which makes it easy to maintain. You can view the code [here](https://github.com/sjayanna/sjayanna.github.io). You can read more Information about hosting site on Github pages via Jekyll [here](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
 
 Below is my workflow creating new posts.
