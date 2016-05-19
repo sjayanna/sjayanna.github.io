@@ -6,6 +6,8 @@ categories: ruby minitest
 published: false  
 ---
 
+### TODO - still working on the article
+
 [MiniTest](https://github.com/seattlerb/minitest) provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
 
 minitest/unit is a small and incredibly fast unit testing framework. It provides a rich set of assertions to make your tests clean and readable.
