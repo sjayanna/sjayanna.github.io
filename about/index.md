@@ -7,6 +7,8 @@ date:  2014-11-19 21:50:53
 
 Sid is passionate about technology, social entrepreneurship, product development, startups and good design.
 
+You can find Sid on [Github](http://github.com/sjayanna), [Twitter](https://twitter.com/sidjayanna), [ LinkedIn](http://www.linkedin.com/in/sidjayanna) or send him [an email](mailto:sjayanna@gmail.com).
+
 Below are somethings which I have worked or working on.
 
 ## Giving Foundation for Children - [supportGFC.org](https://supportGFC.org)
