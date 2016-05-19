@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Deploying site on Github pages using Jekyll"
-date:  2016-05-19 13:15:25
+date:  2016-05-10 13:15:25
 categories: jekyll
 ---
 

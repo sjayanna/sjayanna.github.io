@@ -44,3 +44,6 @@ Add the files and commit and push to github to publish the posts.
 ### References
 * [How to create Jekyll Drafts](http://www.fizerkhan.com/blog/posts/Working-with-upcoming-posts-in-Jekyll.html)
 * [Using Jekyll with Github pages](https://help.github.com/articles/using-jekyll-as-a-static-site-generator-with-github-pages/)
+* [Jekyll Drafts](http://jekyllrb.com/docs/drafts/)
+* [Drafts](http://hamishwillee.github.io/2014/06/11/public-drafts-in-jekyll/)
+* [Another link for drafts](http://tqclarkson.com/2012/08/22/jekyll-drafts/)
