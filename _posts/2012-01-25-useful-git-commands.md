@@ -54,3 +54,4 @@ git commit --amend -m "new commit message" - change last commit message
 ### Further reading
 * [Git Book](https://git-scm.com/book/en/v2)
 * [Quick tutorial](http://rogerdudler.github.io/git-guide/)
+* [Sync with github upstream](https://2buntu.com/articles/1459/keeping-your-forked-repo-synced-with-the-upstream-source/)
