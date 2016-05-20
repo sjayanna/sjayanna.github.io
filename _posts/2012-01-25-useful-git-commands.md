@@ -28,11 +28,23 @@ git merge new_branch
 git push origin branch_name
 {% endhighlight %}
 
+
+### Sync with a github upstream repo after a fork
+
+{% highlight text %}
+git remote add upstream git@github.com:remote_parent_repo
+git checkout master
+git fetch upstream
+git rebase upstream/master
+#push commit to fork after rebase
+git push origin master
+{% endhighlight %}
+
 ### Few useful commands
 
 {% highlight text %}
 git remote add origin ../app.git
-git clean -f -d ( d to remove directories) - Remove untracked files from the working tree
+git clean -f -d ( d to remove directories) - Remove untracked files
 git remote prune origin ( to remove orphan remote branches)
 git remote | xargs -L 1 git push - to push to all repos
 git checkout branch_name path_to_file - to bring a file from another branch

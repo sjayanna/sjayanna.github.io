@@ -24,3 +24,4 @@ Other links:
 * [Tmux](/notes/tmux/)
 * [MiniTest](/notes/minitest/)
 * [Jekyll](/notes/jekyll/)
+* [Atom](/notes/atom/)
