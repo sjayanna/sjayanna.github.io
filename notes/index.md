@@ -25,3 +25,4 @@ Other links:
 * [MiniTest](/notes/minitest/)
 * [Jekyll](/notes/jekyll/)
 * [Atom](/notes/atom/)
+* [Command Line](/notes/commandline/)
