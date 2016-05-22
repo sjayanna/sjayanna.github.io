@@ -65,7 +65,7 @@ end
 
 In the above test, we don't have the variable `json` yet,
 or even the `get :show` call that calls the method.
-but we can start filling in the details. 
+but we can start filling in the details.
 
 {% highlight ruby %}
 describe 'GET #show' do
@@ -202,3 +202,30 @@ end
 - [Railscasts: Authentication from scratch](http://railscasts.com/episodes/250-authentication-from-scratch?view=asciicast)
 - [A Basic User Authentication Model in Rails 4](http://nycda.com/blog/basic-user-authentication-model-in-rails-4/)
 - [User Authentication from Scratch](http://www.emilyplatzer.io/2014/06/29/user-authentication.html)
+
+### Using Curl with a Rails application
+
+With the authenticity token enabled it is a bic tricky to POST via cURL and so go ahead and disable the authenticy token verification by disabling `protect_from_forgery with: :exception` line in application_controller.rb file. Then follow below code.
+
+{% highlight bash %}
+#to delete a resource
+→ curl -X DELETE http://localhost:3000/high_scores/2
+
+#to post form data
+→ curl -X POST -d "high_score[game]=Jordan" -d "high_score[score]=99" http://localhost:3000/high_scores
+
+#to get data
+→ curl http://localhost:3000/high_scores
+
+#to update data using HTTP PUT Method
+→ curl -X PUT -d "high_score[score]=11" http://localhost:3000/high_scores/8
+
+#to update data using HTTP PATCH Method
+→ curl -X PATCH -d "high_score[score]=21" http://localhost:3000/high_scores/8
+{% endhighlight %}
+
+### References
+* [curling with token](https://robots.thoughtbot.com/curling-with-rails-authenticity-token)
+* [curl with rails](http://commandercoriander.net/blog/2014/01/11/curling-with-rails/)
+* [Rails Securiy](http://guides.rubyonrails.org/security.html)
+* [Undertanding rails authenticy token](http://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token)

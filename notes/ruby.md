@@ -28,6 +28,8 @@ installed on Windows.
 * [Why Ruby blocks exist](http://programming.oreilly.com/2014/02/why-ruby-blocks-exist.html)
 * [Awesome Ruby](http://awesome-ruby.com/) - A collection of awesome Ruby libraries, tools, frameworks and software
 
+**Web crawler
+* [With Wombat gem](https://github.com/felipecsl/wombat/wiki)
 **Blogs**
 
 * [Practicing Ruby](https://practicingruby.com/)

@@ -27,3 +27,4 @@ Other links:
 * [Jekyll](/notes/jekyll/)
 * [Atom](/notes/atom/)
 * [Command Line](/notes/commandline/)
+* [HTTP](/notes/http/)
