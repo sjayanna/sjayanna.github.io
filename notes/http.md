@@ -6,7 +6,7 @@ date:  2016-05-21 23:54:42
 
 ### Using curl to interact with a Rails resource via HTTP Methods
 
-With the authenticity token enabled it is a bic tricky to POST via cURL and so go ahead and disable the authenticy token verification by disabling `protect_from_forgery with: :exception` line in application_controller.rb file. Then follow below code.
+With the authenticity token enabled it is a bit tricky to POST via cURL and so go ahead and disable the authenticy token verification by disabling `protect_from_forgery with: :exception` line in application_controller.rb file. Then follow below code.
 
 {% highlight bash %}
 #to delete a resource

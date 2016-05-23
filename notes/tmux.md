@@ -21,5 +21,4 @@ Videos:
 * [Impressive Ruby Productivity with Vim and Tmux by Chris Hunt](https://www.youtube.com/watch?v=gB-JSh1EVME)
 
 ### References
-* [cheat sheat](https://launchschool.com/blog/how-to-install-postgresql-on-a-mac)
-* [cheat sheat 2](http://www.dayid.org/comp/tm.html)
+* [cheat sheat](http://www.dayid.org/comp/tm.html)
