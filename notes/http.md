@@ -34,7 +34,7 @@ With the authenticity token enabled it is a bic tricky to POST via cURL and so g
 * [Rails Securiy](http://guides.rubyonrails.org/security.html)
 * [Undertanding rails authenticy token](http://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token)
 
-###References
+### References
 * [HTTP Basics](https://robots.thoughtbot.com/back-to-basics-http-requests)
 * [cURL with token](https://robots.thoughtbot.com/curling-with-rails-authenticity-token)
 * [curl reference](https://curl.haxx.se/docs/httpscripting.html)
