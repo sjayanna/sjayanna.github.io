@@ -36,3 +36,5 @@ To fix this, do the following from psql prompt:
     \c template1
     VACUUM FREEZE;
 
+### References
+* [Install Postgres on OS X](https://launchschool.com/blog/how-to-install-postgresql-on-a-mac)

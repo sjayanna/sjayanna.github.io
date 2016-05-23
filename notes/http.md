@@ -35,3 +35,4 @@ With the authenticity token enabled it is a bic tricky to POST via cURL and so g
 * [HTTP Basics](https://robots.thoughtbot.com/back-to-basics-http-requests)
 * [cURL with token](https://robots.thoughtbot.com/curling-with-rails-authenticity-token)
 * [curl reference](https://curl.haxx.se/docs/httpscripting.html)
+* [thoughtbot http blogs](https://robots.thoughtbot.com/tags/http)
