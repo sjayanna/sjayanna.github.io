@@ -23,6 +23,9 @@ With the authenticity token enabled it is a bic tricky to POST via cURL and so g
 
 #to update data using HTTP PATCH Method
 → curl -X PATCH -d "high_score[score]=21" http://localhost:3000/high_scores/8
+
+#follow redirects
+→ curl -L google.com
 {% endhighlight %}
 
 ### References
