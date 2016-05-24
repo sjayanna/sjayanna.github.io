@@ -229,3 +229,4 @@ With the authenticity token enabled it is a bic tricky to POST via cURL and so g
 * [curl with rails](http://commandercoriander.net/blog/2014/01/11/curling-with-rails/)
 * [Rails Securiy](http://guides.rubyonrails.org/security.html)
 * [Undertanding rails authenticy token](http://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token)
+* [Bundler and Gems](/notes/bundler-gems)

@@ -38,3 +38,5 @@ To fix this, do the following from psql prompt:
 
 ### References
 * [Install Postgres on OS X](https://launchschool.com/blog/how-to-install-postgresql-on-a-mac)
+* [Why postgress](https://www.compose.io/articles/what-postgresql-has-over-other-open-source-sql-databases/)
+* [Postgress advantages](http://www.postgresql.org/about/advantages/)
