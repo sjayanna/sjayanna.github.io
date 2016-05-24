@@ -28,3 +28,4 @@ Other links:
 * [Atom](/notes/atom/)
 * [Command Line](/notes/commandline/)
 * [HTTP](/notes/http/)
+* [Algorithms](/notes/algorithms/)
