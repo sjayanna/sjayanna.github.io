@@ -23,7 +23,8 @@ I have a Rails application running at localhost:3000 which has a simple resource
 → curl -X DELETE http://localhost:3000/high_scores/2
 
 #to post form data
-→ curl -X POST -d "high_score[game]=Jordan" -d "high_score[score]=99" http://localhost:3000/high_scores
+→ curl -X POST -d "high_score[game]=Jordan" -d "high_score[score]=99" \
+  http://localhost:3000/high_scores
 
 #to get data
 → curl http://localhost:3000/high_scores
