@@ -40,13 +40,10 @@ I have a Rails application running at localhost:3000 which has a simple resource
 {% endhighlight %}
 
 ### References
-* [curling with token](https://robots.thoughtbot.com/curling-with-rails-authenticity-token)
-* [curl with rails](http://commandercoriander.net/blog/2014/01/11/curling-with-rails/)
-* [Rails Securiy](http://guides.rubyonrails.org/security.html)
-* [Undertanding rails authenticy token](http://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token)
-
-### References
 * [HTTP Basics](https://robots.thoughtbot.com/back-to-basics-http-requests)
 * [cURL with token](https://robots.thoughtbot.com/curling-with-rails-authenticity-token)
 * [curl reference](https://curl.haxx.se/docs/httpscripting.html)
 * [thoughtbot http blogs](https://robots.thoughtbot.com/tags/http)
+* [curl with rails](http://commandercoriander.net/blog/2014/01/11/curling-with-rails/)
+* [Rails Securiy](http://guides.rubyonrails.org/security.html)
+* [Undertanding rails authenticy token](http://stackoverflow.com/questions/941594/understanding-the-rails-authenticity-token)
