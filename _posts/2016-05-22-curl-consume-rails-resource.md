@@ -5,11 +5,7 @@ date:  2016-05-22  0:53:38
 categories: rails
 ---
 
-[cURL](https://en.wikipedia.org/wiki/CURL) is a command line tool for doing all sorts of URL manipulations and transfers, but this particular document will focus on how to use it when doing HTTP requests for fun and profit. I'll assume that you know how to invoke 'curl --help' or 'curl --manual' to get basic information about it.
-
-Curl is not written to do everything for you. It makes the requests, it gets the data, it sends data and it retrieves the information. You probably need to glue everything together using some kind of script language or repeated manual invokes.
-
-### The HTTP Protocol
+[cURL](https://en.wikipedia.org/wiki/CURL) is a command line tool for doing all sorts of URL manipulations and transfers
 
 HTTP is the protocol used to fetch data from web servers. It is a very simple protocol that is built upon TCP/IP. The protocol also allows information to get sent to the server from the client using a few different methods, as will be shown here.
 
@@ -20,6 +16,9 @@ The client, curl, sends a HTTP request. The request contains a method (like GET,
 I have a Rails application running at localhost:3000 which has a simple resource running on it. With the Rails authenticity token enabled it is a bit tricky to POST via cURL and so go ahead and disable the authenticy token verification by disabling `protect_from_forgery with: :exception` line in application_controller.rb file to keep it simple. Then follow below code.
 
 {% highlight bash %}
+#get HEAD
+→ curl --head http://localhost:3000
+
 #to delete a resource
 → curl -X DELETE http://localhost:3000/high_scores/2
 
