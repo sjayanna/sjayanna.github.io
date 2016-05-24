@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Using cURL to consume web application & REST API"
+title: "Using cURL to interact with Rails resource/api"
 date:  2016-05-22  0:53:38
 categories: rails
 ---
