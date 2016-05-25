@@ -1,5 +1,5 @@
 
-
+```
  _____ _     _     ___                                     
 /  ___(_)   | |   |_  |                                    
 \ `--. _  __| |     | | __ _ _   _  __ _ _ __  _ __   __ _
@@ -9,6 +9,7 @@
                               __/ |                        
                              |___/                         
 
+```
 # sidjayanna.com
 
 This repository contains the Jekyll theme and content of my blog.
