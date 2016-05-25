@@ -20,3 +20,15 @@ supportGFC is a social entrepreneurial initiative supporting children with speci
 I volunteer at Safety Harbor CoderDojo as a mentor helping young children learn coding and problem solving. I also help the local chapter setup their coderdojo website and provide input/create lesson plans for the various coding programs they conduct. I encourage my young daughters to learn coding and believe all children need to be exposed to it. Hopefully some might be interested/motivated and pursue a technical career. If you like to be a mentor, check out the CoderDojo [website](http://coderdojo.com)
 
 You can find Sid on [Github](http://github.com/sjayanna), [Twitter](https://twitter.com/sidjayanna), [ LinkedIn](http://www.linkedin.com/in/sidjayanna) or send him [an email](mailto:sjayanna@gmail.com).
+
+```
+ _____ _     _     ___                                     
+/  ___(_)   | |   |_  |                                    
+\ `--. _  __| |     | | __ _ _   _  __ _ _ __  _ __   __ _
+ `--. \ |/ _` |     | |/ _` | | | |/ _` | '_ \| '_ \ / _` |
+/\__/ / | (_| | /\__/ / (_| | |_| | (_| | | | | | | | (_| |
+\____/|_|\__,_| \____/ \__,_|\__, |\__,_|_| |_|_| |_|\__,_|
+                              __/ |                        
+                             |___/                         
+
+```
