@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Using cURL to interact with Rails resource/api"
-date:  2016-05-22  0:53:38
+date:  2016-05-14  0:53:38
 categories: rails
 ---
 
