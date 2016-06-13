@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Calculate average of an array of integers in Ruby"
-description: ""
-category:
-tags: []
+categories: ruby
 ---
 
 

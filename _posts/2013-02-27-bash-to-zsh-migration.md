@@ -2,8 +2,7 @@
 layout: post
 title: "Bash to zsh migration"
 description: ""
-category:
-tags: []
+categories: zsh
 ---
 
 I have been reading the power of [zsh](http://zsh.sourceforge.net/FAQ/) for a while and finally decided to transition away from bash shell.

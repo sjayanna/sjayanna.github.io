@@ -1,9 +1,7 @@
 ---
 layout: post
 title: "Useful git commands"
-description: ""
-category:
-tags: []
+categories: git
 ---
 Quick git tutorial for those who join my group.
 

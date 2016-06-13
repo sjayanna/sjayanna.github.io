@@ -2,8 +2,7 @@
 layout: post
 title: "Running javascript on node from textmate"
 description: ""
-category:
-tags: []
+categories: javascript
 ---
 
 I had issues running javascript on node from textmate using the [Javascript node textmate bundle](https://github.com/drnic/javascript-node.tmbundle).
