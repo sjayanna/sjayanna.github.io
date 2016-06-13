@@ -47,3 +47,4 @@ Add the files and commit and push to github to publish the posts.
 * [Jekyll Drafts](http://jekyllrb.com/docs/drafts/)
 * [Drafts](http://hamishwillee.github.io/2014/06/11/public-drafts-in-jekyll/)
 * [Another link for drafts](http://tqclarkson.com/2012/08/22/jekyll-drafts/)
+* [Changes in new Github-pages](https://github.com/blog/2100-github-pages-jekyll-3)
