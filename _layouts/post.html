@@ -4,12 +4,11 @@ layout: default
 
 <div class='post'>
   <h2 class='title'>{{ page.title }}</h2>
-  <p class='meta'>{{ page.date | date_to_string }}</p>
 
   <div class='content'>
   {{ content }}
   </div>
-
+    <p class='meta'>Posted on: {{ page.date | date_to_string }}</p>
   <div class='social-share'>
     <a href="http://twitter.com/share" class="twitter-share-button" data-url="{{ site.url }}{{ page.url }}/" data-text="{{ page.title }}" data-via='sidjayanna' data-count="horizontal">Share on Twitter</a>
   </div>

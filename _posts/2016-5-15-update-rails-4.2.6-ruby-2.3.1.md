@@ -2,7 +2,7 @@
 layout: post
 title: "Update Rails App to 4.2.6 and Ruby to 2.3.1"
 description: ""
-category:
+category: rails
 tags: []
 ---
 
