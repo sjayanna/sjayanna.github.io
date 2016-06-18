@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Share - Judge by skills not disability"
+title: "Article share - Judge by skills not disability"
 date:  2016-06-13 15:29:42
 categories: inspiring
 ---
