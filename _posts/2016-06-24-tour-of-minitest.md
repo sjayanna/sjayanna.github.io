@@ -1,12 +1,11 @@
 ---
 layout: post
 title: "A tour of MiniTest "
-date:  2016-05-18 14:16:49
+date:  2016-06-24 14:16:49
 categories: ruby minitest
-published: false  
 ---
 
-### TODO - still working on the article
+### MiniTest Testing Framework
 
 [MiniTest](https://github.com/seattlerb/minitest) provides a complete suite of testing facilities supporting TDD, BDD, mocking, and benchmarking.
 
@@ -23,6 +22,8 @@ minitest/pride shows pride in testing and adds coloring to your test output. I g
 minitest/unit is meant to have a clean implementation for language implementors that need a minimal set of methods to bootstrap a working test suite. For example, there is no magic involved for test-case discovery.
 
 minitest doesn't reinvent anything that ruby already provides, like: classes, modules, inheritance, methods. This means you only have to learn ruby to use minitest and all of your regular OO practices like extract-method refactorings still apply.
+
+
 
 ## Further reading
 * [MiniTest Documentation](http://docs.seattlerb.org/minitest/)
