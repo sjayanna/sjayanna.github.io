@@ -3,6 +3,7 @@ layout: post
 title: "A tour of MiniTest "
 date:  2016-06-24 14:16:49
 categories: ruby minitest
+published: false
 ---
 
 ### MiniTest Testing Framework
