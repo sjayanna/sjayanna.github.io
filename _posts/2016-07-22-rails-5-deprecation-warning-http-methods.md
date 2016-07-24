@@ -15,7 +15,7 @@ Examples:
 
 get :show, params: { id: 1 }, session: { user_id: 1 }
 process :update, method: :post, params: { id: 1 }
-(called from block (3 levels) in <top (required)> at /Users/sid/src/rails/loan_api/spec/controllers/payments_controller_spec.rb:25)
+(called from block (3 levels) in <top (required)> at /..spec/controllers/payments_controller_spec.rb:25)
 DEPRECATION WARNING: ActionController::TestCase HTTP request methods will accept only
 keyword arguments in future Rails versions.
 
@@ -26,8 +26,10 @@ In Rails 5, request methods accept only (keyword arguments[https://github.com/ra
 {% highlight ruby %}
 describe '#create' do
   it 'responds with a 200' do
-    # post :create, loan_id: loan.id, payment: { amount: 25.0, payment_date: Time.now } #old method
-    process :create, method: :post, params: { loan_id: loan.id, payment: { amount: 25.0, payment_date: Time.now  } }
+    # post :create, loan_id: loan.id, 
+            payment: { amount: 25.0, payment_date: Time.now } #old method
+    process :create, method: :post, params: { loan_id: loan.id, 
+                                              payment: { amount: 25.0, payment_date: Time.now  } }
     expect(response).to have_http_status(:ok)
   end
 end  
