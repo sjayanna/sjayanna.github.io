@@ -20,14 +20,14 @@ keyword arguments in future Rails versions.
 
 {% endhighlight %}
 
-In Rails 5, request methods accept only (keyword arguments[https://github.com/rails/rails/pull/18323/]). To stop getting the above deprecation warning just edit your request methods like below.
+In Rails 5, request methods accept only [keyword arguments](https://github.com/rails/rails/pull/18323/). To stop getting the above deprecation warning just edit your request methods like below.
 
 {% highlight ruby %}
 describe '#create' do
   it 'responds with a 200' do
-    # post :create, loan_id: loan.id, 
+    # post :create, loan_id: loan.id,
             payment: { amount: 25.0, payment_date: Time.now } #old method
-    process :create, method: :post, 
+    process :create, method: :post,
       params: { loan_id: loan.id, payment: { amount: 25.0, payment_date: Time.now  } }
     expect(response).to have_http_status(:ok)
   end
