@@ -10,7 +10,7 @@
                              |___/                         
 
 ```
-# sidjayanna.com
+# sjayanna.github.io
 
 This repository contains the Jekyll theme and content of my blog.
 
