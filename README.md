@@ -28,6 +28,12 @@ $ rm -rf about notes slides _posts keybase.txt CNAME
 $ mkdir _posts
 ```
 
+* To run the site locally
+
+```
+$ bundle exec jekyll serve
+```
+
 * Edit the details from `_config.yml`. Make sure you leave the Disqus and
   Google Analytics configs blank if you don't use them.
 * Change title in `index.html`
