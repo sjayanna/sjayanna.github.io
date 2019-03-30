@@ -3,7 +3,7 @@ layout: post
 title: "Useful git commands"
 categories: git
 ---
-Quick git tutorial for those who join my group.
+Quick git tutorial.
 
 ### Git configuration
 {% highlight text %}
