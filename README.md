@@ -42,3 +42,6 @@ $ bundle exec jekyll serve
 
 There are two rake tasks - `rake post` and `rake page` which prompt for
 metadata and generate the markdown files.
+
+### Jekyll guide
+https://help.github.com/en/articles/setting-up-your-github-pages-site-locally-with-jekyll#step-4-build-your-local-jekyll-site
