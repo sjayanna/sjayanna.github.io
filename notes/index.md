@@ -15,7 +15,6 @@ Forked copy, need to clean up the below list.
 Other links:
 
 * [Compilers](/notes/compilers/)
-* [Favorite books lists](/notes/books/)
 * [Mac OS X](/notes/osx/)
 * [Operating systems](/notes/os/)
 * [Product design](/notes/product-design/)
