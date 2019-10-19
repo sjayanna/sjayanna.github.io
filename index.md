@@ -11,7 +11,6 @@ title: Sid Jayanna
 # Posts
 
 <div class='posts'>
-<hl>
   {% for post in site.posts %}
 
     <div class='post-listing'>
